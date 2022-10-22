@@ -19,8 +19,12 @@ Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 2. aşama: [2,6,16,22,18,27]
 3. aşama: [2,6,16,18,22,27] ve şu an Insertion Sort yöntemi ile sıralama yaptık.
 
-*Big-O gösterimi n+(n-1)+(n-2) şeklinde ilerliyor.
-Big-O:O(n ** 2)
+*Worst Case : O(n^2)
+Avarage Case : O(n^2)
+Best Case : O(n)
+
+*Best Case : [2,6,16,18,22,27]
+Worst Case : [27,22,18,16,6,2]
 
 *18 sayısı Average Case kapsamına girer.
 
